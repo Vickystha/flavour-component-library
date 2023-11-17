@@ -5,6 +5,7 @@
 
 # Application
 node_modules
+.npmrc
 
 # Others
 *.zip

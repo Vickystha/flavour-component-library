@@ -36,5 +36,10 @@ npm run storybook
             - `Component.stories.tsx`: Optional file for Storybook (but recommended)
             - `index.ts` : Exports component from library
 
+### Registry
+This package is released to Github registry.
+
 ### Reference
 [Source 1](https://blog.logrocket.com/how-to-build-component-library-react-typescript/)
+[Source 2: Video](https://www.youtube.com/watch?v=2-77KhGWlRg&ab_channel=HarryWolff)
+[Source 3](https://www.wearecogworks.com/blog/how-to-publish-npm-packages-with-github/)

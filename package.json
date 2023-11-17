@@ -1,5 +1,5 @@
 {
-  "name": "flavour-component-library",
+  "name": "@vickystha/flavour-component-library",
   "version": "1.0.0",
   "description": "Reusable react components",
   "main": "dist/cjs/index.js",
@@ -13,6 +13,13 @@
   },
   "author": "Bijaya Shrestha",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Vickystha/flavour-component-library.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Vickystha"
+  },
   "devDependencies": {
     "@babel/preset-env": "^7.21.5",
     "@babel/preset-react": "^7.18.6",
